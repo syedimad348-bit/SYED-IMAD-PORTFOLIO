@@ -1,0 +1,5 @@
+<!-- Custom Header -->
+<div class="custom-header">
+    <h1>Syed Imad POS</h1>
+    <div class="logout-btn" onclick="location.href='logout.php'">Logout</div>
+</div>
